@@ -61,7 +61,6 @@ li{
 .img-square-wrapper:hover{
 	transform: scale(1.1);
 }
-
 .card-footer i {
     margin-left: 0.5rem;
 }
@@ -74,12 +73,16 @@ li{
 .form-body{
     padding: 1rem;
 } 
-
+.card-text2{
+    font-size: 18px;
+}
 .button{
     text-align: right;
 }
 .footer-body{
     margin-left: 1rem;
 }
-
-
+.carousel-control-prev,
+.carousel-control-next{
+    bottom: 40%;
+}
