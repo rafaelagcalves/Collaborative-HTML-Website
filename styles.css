@@ -38,46 +38,10 @@ li{
 .jumbotron{
     background-color: rgba(255, 195, 0, 0.8);
 }
-
 .card-horizontal {
     display: flex;
     flex: 1 1 auto;
 }
-
-.img-square-wrapper{
-    margin-top: 1rem;
-    margin-left: 1rem;
-}
-.img-square-wrapper:hover{
-	transform: scale(1.1);
-}
-
-/* .card-footer:last-child{
-    margin-left: 10rem;
-} */
-
-.card-footer i {
-    margin-left: 0.5rem;
-}
-.card-group{
-    margin-left: 1rem;
-}
-.form-body{
-    padding: 3rem;
-} 
-
-.button{
-    text-align: right;
-}
-
-.footer-body{
-    margin-left: 3rem;
-}
-
-.card-body1{
-    margin: 0;
-}
-
 .title-brazil{
     color: #581845;
     margin-top: 2rem;
@@ -87,3 +51,35 @@ li{
     margin-right: 2rem;
     margin-bottom: 2rem;
 }
+
+/* card2 */
+
+.img-square-wrapper{
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+.img-square-wrapper:hover{
+	transform: scale(1.1);
+}
+
+.card-footer i {
+    margin-left: 0.5rem;
+}
+.card-group{
+    margin-left: 1rem;
+}
+.card-body1{
+    margin: 0;
+}
+.form-body{
+    padding: 1rem;
+} 
+
+.button{
+    text-align: right;
+}
+.footer-body{
+    margin-left: 1rem;
+}
+
+
