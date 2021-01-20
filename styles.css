@@ -35,9 +35,6 @@ li{
     padding: 0.5rem;
     width: 60%;
 }
-.jumbotron{
-    background-color: rgba(255, 195, 0, 0.8);
-}
 .card-horizontal {
     display: flex;
     flex: 1 1 auto;
@@ -45,44 +42,25 @@ li{
 .title-brazil{
     color: #581845;
     margin-top: 2rem;
+    margin-left: 2rem;
 }
 .text-brazil{
     color: #900C3F;
-    margin-right: 2rem;
+    margin-left: 2rem;
     margin-bottom: 2rem;
 }
 
-/* card2 */
-
-.img-square-wrapper{
-    margin-top: 1rem;
-    margin-left: 1rem;
+.imgBrazil{
+    background: 50% 50% no-repeat;
+  width: 13rem;
+  height: 13rem;
 }
 .img-square-wrapper:hover{
-	transform: scale(1.1);
+    transform: scale(1.1);
 }
-.card-footer i {
-    margin-left: 0.5rem;
+.text-muted{
+    margin-left: 2rem;
 }
-.card-group{
-    margin-left: 1rem;
-}
-.card-body1{
-    margin: 0;
-}
-.form-body{
-    padding: 1rem;
-} 
-.card-text2{
-    font-size: 18px;
-}
-.button{
-    text-align: right;
-}
-.footer-body{
-    margin-left: 1rem;
-}
-.carousel-control-prev,
-.carousel-control-next{
-    bottom: 40%;
+.fas{
+    color: #FF5733;
 }
