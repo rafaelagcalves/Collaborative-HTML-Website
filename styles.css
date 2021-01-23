@@ -48,19 +48,71 @@ li{
     color: #900C3F;
     margin-left: 2rem;
     margin-bottom: 2rem;
+    font-size: 25px;
 }
-
 .imgBrazil{
     background: 50% 50% no-repeat;
-  width: 13rem;
-  height: 13rem;
+    width: 13rem;
+    height: 13rem;
 }
 .img-square-wrapper:hover{
     transform: scale(1.1);
 }
-.text-muted{
-    margin-left: 2rem;
-}
 .fas{
     color: #FF5733;
 }
+
+
+/* card2 */
+
+.img-square-wrapper{
+    margin-top: 4rem;
+    margin-left: 1rem;
+}
+.img-square-wrapper:hover{
+	transform: scale(1.1);
+}
+.carousel-control-prev,
+.carousel-control-next{
+    bottom: 40%;
+}
+.card-group{
+    margin-left: 1rem;
+}
+.card-body1{
+    margin: 0;
+    margin-top: 1rem;
+}
+.card-title{
+    color: #581845;
+}
+.card-footer{
+    margin-top: 1rem;
+}
+.card-footer i {
+    margin-left: 0.5rem;
+}
+.card-text{
+    color: #900C3F;
+}
+.card-text2{
+    font-size: 18px;
+    color: #900C3F;
+}
+.form-body{
+    margin-top: 2rem;
+}
+.form-group p{
+    margin-top: 1rem;
+    font-size: 20px;
+}
+.button{
+    text-align: right;
+    margin-top: 2rem;
+}
+.footer-body{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+
